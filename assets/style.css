@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  height: 100vh;
+  top: 0;
+  background-image: url(./img/coffee\ beans.jpg);
+  background-position: center bottom;
+  background-size: cover;
+}
+
+.sidebar {
+  font-size: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  width: 290px;
+  padding: 70px 0 0;
+  text-align: center;
+  position: fixed;
+  min-height: 100%;
+  /* z-index: 99999; */
+}
+
+.header {
+}
