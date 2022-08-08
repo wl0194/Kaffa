@@ -20,8 +20,26 @@
   text-align: center;
   position: fixed;
   min-height: 100%;
-  /* z-index: 99999; */
 }
 
 .header {
+  color: rgb(0, 0, 0);
+  padding-top: 3rem;
+}
+
+ul {
+  display: block;
+  margin-block-start: 15em;
+  margin-block-end: 4em;
+  font-size: 1.1rem;
+  text-decoration: none;
+}
+
+.top-menu li {
+  padding: 10px 20px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
 }
