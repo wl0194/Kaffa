@@ -43,3 +43,19 @@ a {
   text-decoration: none;
   color: rgb(0, 0, 0);
 }
+
+.footer {
+  padding: 30px;
+}
+.social-icons {
+  font-size: 21px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+p {
+  font-size: 12px;
+  padding: 15px;
+}
